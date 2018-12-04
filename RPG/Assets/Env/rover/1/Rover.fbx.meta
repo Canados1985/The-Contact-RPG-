@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: df39cb3655346a042add45e4c38b40b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Automatic_Turret
+    100002: 'Body_Cargo_Door '
+    100004: 'Body_Cockpit '
+    100006: Body_Panels_Covers
+    100008: 'Body_Panels_Front '
+    100010: Body_Panels_Hatch_Base
+    100012: Body_Panels_Roof
+    100014: 'Body_Panels_Side '
+    100016: Body_Panels_Turret_Support
+    100018: 'Bolt '
+    100020: Box
+    100022: 'Box_Attachment_Points '
+    100024: 'Bracing '
+    100026: Brake_Calipers
+    100028: Brake_Disks
+    100030: Bull_Bar/Armor.003
+    100032: 'Bull_Bar_attachment '
+    100034: 'Bull_Bar_Mike '
+    100036: 'Cans '
+    100038: 'Cargo_Door '
+    100040: Cargo_Door_Rails
+    100042: Chassis
+    100044: Dual_Wishbone
+    100046: 'Dual_Wishbone_Attachment_Points '
+    100048: Electric_Motor
+    100050: Exhaust
+    100052: Exterior_Light
+    100054: Feature
+    100056: Front_Air_Vent
+    100058: Front_Lights
+    100060: 'Handle '
+    100062: 'Handles '
+    100064: 'Hatch '
+    100066: Interior_Walls_(Mask)
+    100068: Main_Turret
+    100070: Main_Turret_Missile_Wires
+    100072: Main_Turret_Rails
+    100074: 'Pneumatic_Suspension '
+    100076: Pneumatic_Suspension_Attachment_Points
+    100078: Pneumatic_Suspension_Attachment_Points_1
+    100080: 'Port_Hole '
+    100082: Rear_Air_Vent
+    100084: Rear_Lights
+    100086: 'Reflectors '
+    100088: Roof_Rails
+    100090: //RootNode
+    100092: Step
+    100094: 'Wheel_Arches '
+    100096: Wheel_Axles
+    100098: Wheels
+    400000: Automatic_Turret
+    400002: 'Body_Cargo_Door '
+    400004: 'Body_Cockpit '
+    400006: Body_Panels_Covers
+    400008: 'Body_Panels_Front '
+    400010: Body_Panels_Hatch_Base
+    400012: Body_Panels_Roof
+    400014: 'Body_Panels_Side '
+    400016: Body_Panels_Turret_Support
+    400018: 'Bolt '
+    400020: Box
+    400022: 'Box_Attachment_Points '
+    400024: 'Bracing '
+    400026: Brake_Calipers
+    400028: Brake_Disks
+    400030: Bull_Bar/Armor.003
+    400032: 'Bull_Bar_attachment '
+    400034: 'Bull_Bar_Mike '
+    400036: 'Cans '
+    400038: 'Cargo_Door '
+    400040: Cargo_Door_Rails
+    400042: Chassis
+    400044: Dual_Wishbone
+    400046: 'Dual_Wishbone_Attachment_Points '
+    400048: Electric_Motor
+    400050: Exhaust
+    400052: Exterior_Light
+    400054: Feature
+    400056: Front_Air_Vent
+    400058: Front_Lights
+    400060: 'Handle '
+    400062: 'Handles '
+    400064: 'Hatch '
+    400066: Interior_Walls_(Mask)
+    400068: Main_Turret
+    400070: Main_Turret_Missile_Wires
+    400072: Main_Turret_Rails
+    400074: 'Pneumatic_Suspension '
+    400076: Pneumatic_Suspension_Attachment_Points
+    400078: Pneumatic_Suspension_Attachment_Points_1
+    400080: 'Port_Hole '
+    400082: Rear_Air_Vent
+    400084: Rear_Lights
+    400086: 'Reflectors '
+    400088: Roof_Rails
+    400090: //RootNode
+    400092: Step
+    400094: 'Wheel_Arches '
+    400096: Wheel_Axles
+    400098: Wheels
+    2100000: Matte_Black_
+    2100002: Alloy
+    2100004: Gloss_Black
+    2100006: Rubber
+    2100008: Rear_Light
+    2100010: Body_Panels_Hatch_Base
+    2100012: Body_Panels_Turret_Support
+    2100014: Body_Panels_Covers
+    2100016: Steel_
+    2100018: Metal_
+    2100020: Perspects
+    2100022: White_Light
+    2100024: Body_Panels_Front
+    2100026: Body_Panels_Side_
+    2100028: Windows
+    2100030: Bullbar
+    2100032: Rough_Metal_
+    2100034: Rover_Paint
+    2100036: Box_
+    2100038: Reflector
+    2100040: Mattish_Red
+    2100042: Gloss_Red
+    2100044: No Name
+    2100046: Body_Panels_Roof
+    2100048: Brake_Disks
+    2100050: Cargo_Door_
+    2100052: Wheel_Arches_
+    2100054: Body_Cargo_Door_
+    2300000: Automatic_Turret
+    2300002: 'Body_Cargo_Door '
+    2300004: 'Body_Cockpit '
+    2300006: Body_Panels_Covers
+    2300008: 'Body_Panels_Front '
+    2300010: Body_Panels_Hatch_Base
+    2300012: Body_Panels_Roof
+    2300014: 'Body_Panels_Side '
+    2300016: Body_Panels_Turret_Support
+    2300018: 'Bolt '
+    2300020: Box
+    2300022: 'Box_Attachment_Points '
+    2300024: 'Bracing '
+    2300026: Brake_Calipers
+    2300028: Brake_Disks
+    2300030: Bull_Bar/Armor.003
+    2300032: 'Bull_Bar_attachment '
+    2300034: 'Bull_Bar_Mike '
+    2300036: 'Cans '
+    2300038: 'Cargo_Door '
+    2300040: Cargo_Door_Rails
+    2300042: Chassis
+    2300044: Dual_Wishbone
+    2300046: 'Dual_Wishbone_Attachment_Points '
+    2300048: Electric_Motor
+    2300050: Exhaust
+    2300052: Exterior_Light
+    2300054: Feature
+    2300056: Front_Air_Vent
+    2300058: Front_Lights
+    2300060: 'Handle '
+    2300062: 'Handles '
+    2300064: 'Hatch '
+    2300066: Interior_Walls_(Mask)
+    2300068: Main_Turret
+    2300070: Main_Turret_Missile_Wires
+    2300072: Main_Turret_Rails
+    2300074: 'Pneumatic_Suspension '
+    2300076: Pneumatic_Suspension_Attachment_Points
+    2300078: Pneumatic_Suspension_Attachment_Points_1
+    2300080: 'Port_Hole '
+    2300082: Rear_Air_Vent
+    2300084: Rear_Lights
+    2300086: 'Reflectors '
+    2300088: Roof_Rails
+    2300090: Step
+    2300092: 'Wheel_Arches '
+    2300094: Wheel_Axles
+    2300096: Wheels
+    3300000: Automatic_Turret
+    3300002: 'Body_Cargo_Door '
+    3300004: 'Body_Cockpit '
+    3300006: Body_Panels_Covers
+    3300008: 'Body_Panels_Front '
+    3300010: Body_Panels_Hatch_Base
+    3300012: Body_Panels_Roof
+    3300014: 'Body_Panels_Side '
+    3300016: Body_Panels_Turret_Support
+    3300018: 'Bolt '
+    3300020: Box
+    3300022: 'Box_Attachment_Points '
+    3300024: 'Bracing '
+    3300026: Brake_Calipers
+    3300028: Brake_Disks
+    3300030: Bull_Bar/Armor.003
+    3300032: 'Bull_Bar_attachment '
+    3300034: 'Bull_Bar_Mike '
+    3300036: 'Cans '
+    3300038: 'Cargo_Door '
+    3300040: Cargo_Door_Rails
+    3300042: Chassis
+    3300044: Dual_Wishbone
+    3300046: 'Dual_Wishbone_Attachment_Points '
+    3300048: Electric_Motor
+    3300050: Exhaust
+    3300052: Exterior_Light
+    3300054: Feature
+    3300056: Front_Air_Vent
+    3300058: Front_Lights
+    3300060: 'Handle '
+    3300062: 'Handles '
+    3300064: 'Hatch '
+    3300066: Interior_Walls_(Mask)
+    3300068: Main_Turret
+    3300070: Main_Turret_Missile_Wires
+    3300072: Main_Turret_Rails
+    3300074: 'Pneumatic_Suspension '
+    3300076: Pneumatic_Suspension_Attachment_Points
+    3300078: Pneumatic_Suspension_Attachment_Points_1
+    3300080: 'Port_Hole '
+    3300082: Rear_Air_Vent
+    3300084: Rear_Lights
+    3300086: 'Reflectors '
+    3300088: Roof_Rails
+    3300090: Step
+    3300092: 'Wheel_Arches '
+    3300094: Wheel_Axles
+    3300096: Wheels
+    4300000: Feature
+    4300002: Wheels
+    4300004: Rear_Air_Vent
+    4300006: 'Bracing '
+    4300008: Body_Panels_Hatch_Base
+    4300010: Body_Panels_Turret_Support
+    4300012: Body_Panels_Covers
+    4300014: 'Handles '
+    4300016: 'Bolt '
+    4300018: Main_Turret_Rails
+    4300020: Exterior_Light
+    4300022: 'Body_Panels_Front '
+    4300024: 'Body_Panels_Side '
+    4300026: Bull_Bar/Armor.003
+    4300028: 'Bull_Bar_Mike '
+    4300030: Cargo_Door_Rails
+    4300032: 'Handle '
+    4300034: Rear_Lights
+    4300036: 'Port_Hole '
+    4300038: 'Box_Attachment_Points '
+    4300040: Box
+    4300042: 'Reflectors '
+    4300044: Main_Turret_Missile_Wires
+    4300046: 'Cans '
+    4300048: Main_Turret
+    4300050: Step
+    4300052: Front_Air_Vent
+    4300054: Interior_Walls_(Mask)
+    4300056: Roof_Rails
+    4300058: Automatic_Turret
+    4300060: Electric_Motor
+    4300062: Pneumatic_Suspension_Attachment_Points
+    4300064: Pneumatic_Suspension_Attachment_Points_1
+    4300066: 'Pneumatic_Suspension '
+    4300068: 'Dual_Wishbone_Attachment_Points '
+    4300070: Dual_Wishbone
+    4300072: Wheel_Axles
+    4300074: Brake_Calipers
+    4300076: Chassis
+    4300078: Body_Panels_Roof
+    4300080: 'Bull_Bar_attachment '
+    4300082: Brake_Disks
+    4300084: 'Cargo_Door '
+    4300086: 'Body_Cockpit '
+    4300088: Front_Lights
+    4300090: 'Wheel_Arches '
+    4300092: Exhaust
+    4300094: 'Body_Cargo_Door '
+    4300096: 'Hatch '
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
